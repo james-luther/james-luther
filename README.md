@@ -14,7 +14,7 @@
   <a href="https://github.com/james-luther">
     <img src="https://komarev.com/ghpvc/?username=james-luther&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge" alt="Profile views" />
   </a>
-  <a href="https://www.buymeacoffee.com/b34rd">
+  <a href="https://www.buymeacoffee.com/colibrisec">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="28" alt="Buy me a coffee" />
   </a>
 </p>
